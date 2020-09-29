@@ -10,6 +10,5 @@ class HelloWorldTest {
     public void failTest() {
         fail();
     }
-    @Test
-    public void test() {}
+
 }
